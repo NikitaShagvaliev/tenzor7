@@ -1,12 +1,12 @@
-package dev.jacbes.animation.fragments
+package dev.file.animation.fragments
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.View
 import androidx.fragment.app.commit
 import androidx.fragment.app.replace
-import dev.jacbes.animation.R
-import dev.jacbes.animation.databinding.FragmentBaseBinding
+import dev.file.animation.R
+import dev.file.animation.databinding.FragmentBaseBinding
 
 class BaseFragment : Fragment(R.layout.fragment_base) {
 

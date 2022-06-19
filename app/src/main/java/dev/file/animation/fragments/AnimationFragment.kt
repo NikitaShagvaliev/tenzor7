@@ -1,4 +1,4 @@
-package dev.jacbes.animation.fragments
+package dev.file.animation.fragments
 
 import android.animation.ArgbEvaluator
 import android.animation.PropertyValuesHolder
@@ -10,8 +10,8 @@ import android.view.View
 import android.view.animation.AccelerateDecelerateInterpolator
 import androidx.core.view.updateLayoutParams
 import androidx.fragment.app.Fragment
-import dev.jacbes.animation.R
-import dev.jacbes.animation.databinding.FragmentAnimationBinding
+import dev.file.animation.R
+import dev.file.animation.databinding.FragmentAnimationBinding
 
 class AnimationFragment : Fragment(R.layout.fragment_animation) {
 
